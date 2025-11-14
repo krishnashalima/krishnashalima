@@ -42,7 +42,7 @@ I’m **Shalima Krishna Chithra Krishnapillai**, a Computer Science & Digitalisa
 
 ## 💬 Let’s connect
 
-- 💼 LinkedIn: *add your link here*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/shalima-krishna-chithra-krishnapillai*  
 - 📸 Travel & photography: *@kaya_kiya_voyages*  
 - 📧 Email: **krishna2214617@gmail.com**
 
