@@ -8,9 +8,6 @@ I’m **Shalima Krishna Chithra Krishnapillai**, a Computer Science & Digitalisa
 - 🧠 Personality: calm under pressure, detail-oriented, endlessly curious
 
 ---
----
-
-## 🛠 Tech & Tools I Use
 ## 🛠 Tech & Tools I Use
 
 <p align="left">
