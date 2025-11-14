@@ -8,6 +8,27 @@ I’m **Shalima Krishna Chithra Krishnapillai**, a Computer Science & Digitalisa
 - 🧠 Personality: calm under pressure, detail-oriented, endlessly curious
 
 ---
+---
+
+## 🛠 Tech & Tools I Use
+  <p align="left">
+  <!-- first row of badges -->
+</p>
+<p align="left">
+  <!-- second row of badges -->
+</p>
+
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+</p>
+
+---
 
 ## 🔭 What I’m working on
 
