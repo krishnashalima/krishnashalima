@@ -31,11 +31,7 @@ I’m **Shalima Krishna Chithra Krishnapillai**, a Computer Science & Digitalisa
 - 🛒 **Grocery Product Recommendation System**  
   A classification model that predicts the next likely product in a customer’s basket using transactional item data and NLP-style vectorisation.
 
-- 🎨 **Dessert Plate – FreeCAD (3D Design)**  
-  A creative 3D dessert plate model with ice cream scoops, fruit slices and decorative elements, designed for an academic CAD project.
 
-- 🌌 **Jungle Adventure – C++ OpenGL**  
-  A 2D adventure background scene created using basic shapes in OpenGL, inspired by storytelling and game environments.
 
 ---
 
